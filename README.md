@@ -1,6 +1,8 @@
 #Practica-Git
+
 practica de gestion de versiones
 
-Se realiza conexion con llave ssh
 hitos
-06/04/21 22:17 conexion exitosa.
+06/04/21 20:18 Se realiza conexion con llave ssh
+06/04/21 22:17 Conexion ssh exitosa.
+06/04/21 22:24 se revisa los resultados en github
