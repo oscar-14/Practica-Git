@@ -1,0 +1,4 @@
+se registra el pirmer commit
+commit hecho desde gihub
+
+06/04/21 20:24 : se recivio con exito los cambios hechos en github y viceversa.
